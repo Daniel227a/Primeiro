@@ -58,9 +58,9 @@ staged == marcou um rquivo modificado
 	retornar a versao anterior do documento
 
 git checkout  ID do document
- atualizaçao
-  
-
+ 
+	voltar a ultima versao do documento 
+git checkout master 
 
 
 
