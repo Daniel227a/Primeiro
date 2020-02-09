@@ -1,3 +1,4 @@
+
 desligar poweroff 
 sudo dpkg -i package_file.deb.
 
@@ -57,8 +58,8 @@ staged == marcou um rquivo modificado
 	retornar a versao anterior do documento
 
 git checkout  ID do document
-
-  
+ atualizaçao
+  asdasd
 
 
 
